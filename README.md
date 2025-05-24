@@ -1,4 +1,4 @@
-# DetectAI: Sistema de Detecção de Fraturas Ósseas em Raio-X 🦴 Röntgenbild mit Knochenbruch
+# DetectAI: Sistema de Detecção de Fraturas Ósseas em Raio-X
 
 Utilizando redes neurais profundas, este sistema identifica fraturas ósseas em imagens radiográficas com alta precisão. Desenvolvido para auxiliar profissionais de saúde, o modelo foi treinado em um dataset diversificado e balanceado, garantindo robustez em diferentes cenários clínicos.
 
